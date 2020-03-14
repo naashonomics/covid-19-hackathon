@@ -32,6 +32,8 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 14. Proposed by Abhay Agarwal : Develop a mobile application to track locations and path taken by people to reach any destination. Application will raise a red flag advising not to take particular path and in case if somebody is infected but clinically not yet confirmed so at least we can know their travel history to identify other people.
 
+15.Porposed by Avinash :  pre Travel screening self ceritifed qurantinite apporved by a local doctor  , ensure safer travel and reduce fear and make travel safer 
+
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
 - https://github.com/aiformankind/covid-19
